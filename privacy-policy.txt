@@ -1,0 +1,125 @@
+Privacy Policy
+Last Updated: October 7, 2026
+
+Introduction
+This Privacy Policy explains how Gratis GG Games ("we", "our", or "us") collects, uses, stores, and protects information when you use our applications ("Service").
+
+By using the Service, you agree to the collection and use of information as described in this Privacy Policy.
+
+Definitions
+For the purposes of this Privacy Policy:
+
+Application refers to mobile applications published by Gratis GG Games.
+
+Company refers to Gratis GG Games.
+
+Device means any device capable of accessing the Service, including smartphones, tablets, and computers.
+
+Personal Data means any information that can identify or be associated with an individual.
+
+Usage Data refers to information collected automatically through your use of the Service.
+
+Service Provider means any third-party company or individual that provides services necessary for the operation of the Service, including advertising services.
+
+You refers to the individual using the Service.
+
+Information We Collect
+Personal Data
+We do not require users to provide personal information to use the core features of our applications unless explicitly stated within a specific application.
+
+Usage Data
+Certain information may be collected automatically when you use the application, particularly by advertising services integrated into the Service. This information may include:
+
+IP address
+
+Device type
+
+Device identifiers or advertising identifiers
+
+Operating system
+
+Application activity and interactions
+
+Date and time of access
+
+Diagnostic and performance information
+
+Other information necessary to provide, measure, personalize, and prevent fraud in advertising
+
+How We Use Your Information
+Information collected through the Service may be used to:
+
+Provide, operate, and maintain the Service.
+
+Improve application performance, functionality, and user experience.
+
+Analyze application performance and diagnose technical issues.
+
+Display, deliver, measure, and improve advertisements.
+
+Prevent advertising fraud and abuse.
+
+Comply with applicable legal obligations.
+
+Sharing Your Information
+We do not sell your personal information.
+
+We share user data with third parties only when necessary for advertising purposes, including the delivery, measurement, personalization, and prevention of fraud related to advertisements displayed within our applications.
+
+Advertising providers may collect and process information such as device identifiers, advertising identifiers, IP addresses, application interactions, and diagnostic information in accordance with their own privacy policies and applicable law.
+
+We may also disclose information when required by applicable law, legal process, or a valid request from a competent public authority.
+
+We do not share user data with third parties for unrelated commercial purposes.
+
+Data Retention
+We retain information directly controlled by Gratis GG Games only for as long as necessary to operate the Service, comply with legal obligations, resolve disputes, or protect our rights.
+
+Third-party advertising providers may retain information according to their own data retention policies.
+
+International Data Transfers
+Information processed by advertising providers may be transferred to and stored in countries outside your country of residence.
+
+Such processing is subject to the safeguards, privacy policies, and applicable legal requirements of the relevant advertising provider.
+
+Disclosure of Personal Data
+Personal Data may be disclosed when necessary:
+
+To provide and operate advertising within the Service.
+
+To comply with applicable laws or valid legal requests.
+
+To protect our legal rights or property.
+
+To investigate fraud, abuse, or security incidents.
+
+To protect the safety of users or the public.
+
+Data Security
+We implement commercially reasonable measures to protect information under our control.
+
+However, no method of electronic storage or internet transmission is completely secure, and we cannot guarantee absolute security.
+
+Children's Privacy
+The Service is not intended for children under the age of 13 unless a specific application explicitly states otherwise and complies with applicable requirements for child-directed services.
+
+We do not knowingly collect personal information directly from children under 13. If we become aware that such information has been collected improperly, we will take reasonable steps to delete it.
+
+Third-Party Services and Websites
+Our applications may use third-party advertising services or contain links to external websites.
+
+Third-party services operate according to their own privacy policies. We encourage you to review the privacy policies of advertising providers and any external websites you visit.
+
+Gratis GG Games is not responsible for the privacy practices or content of independent third-party websites.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time.
+
+When changes are made, the updated version will be posted within the application or on our website, and the "Last Updated" date will be revised accordingly.
+
+Continued use of the Service after changes become effective constitutes your acceptance of the updated Privacy Policy.
+
+Contact Us
+If you have any questions regarding this Privacy Policy, please contact us:
+
+Email: nesitecgames@gmail.com
